@@ -1,0 +1,5 @@
+dist
+sessions
+sendgrid.env
+/node_modules
+.npmrc
